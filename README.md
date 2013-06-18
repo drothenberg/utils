@@ -1,4 +1,4 @@
-utils
+OVAL Utilities
 =====
 
 A set of utilities for manipulating content written in the OVAL Language. These are general utilities that will assist anyone in using OVAL content.
